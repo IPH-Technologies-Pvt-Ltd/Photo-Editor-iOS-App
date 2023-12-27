@@ -21,7 +21,7 @@ git clone https://github.com/IPH-Technologies-Pvt-Ltd/Photo-Editor-iOS-App.git
 2. Navigate to the project directory:
 cd Photo-Editor-iOS-App.git
 3. Open the Xcode project file:
-open PhotoEditor.xcodeproj
+open PhotoEditor.xworkspace
 4. Build and run the project using the Xcode simulator or a connected iOS device.
 
 ## Usage
