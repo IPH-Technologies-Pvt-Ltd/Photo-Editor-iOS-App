@@ -4,14 +4,10 @@
 Experience seamless photo editing with our innovative iOS Swift-developed app, offering a user-friendly interface and a plethora of creative tools to enhance and transform your images effortlessly.
 
 
-
 ## Requirements
 Xcode 12.0 or later
-
 Swift 5.0 or later
-
 iOS 12.0 or later
-
 
 
 ## Installation
@@ -26,20 +22,19 @@ open PhotoEditor.xworkspace
 
 ## Usage
 
-Crop your image, add a heartfelt message using the text tool, and draw playful shapes with the pencil to create a personalized masterpiece. Use the eraser for fine-tuning, and when you're satisfied, share your unique creation effortlessly with friends and family.
+1.Crop your image,
+2.add a heartfelt message using the text tool,
+3.and draw playful shapes with the pencil to create a personalized masterpiece,
+4.Use the eraser for fine-tuning, and when you're satisfied, share your unique creation effortlessly with friends and family.
 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug fixes, or improvements, please create a new pull request. Make sure to follow the existing coding style and include relevant tests if applicable.
 
 ## License
-
-
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-
 ## Acknowledgements
-
 
 - [FontAwesomeSwift](https://github.com/thii/FontAwesome.swift) - Used for displaying social media icons.
 
