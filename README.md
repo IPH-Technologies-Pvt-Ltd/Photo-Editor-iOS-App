@@ -5,9 +5,9 @@ Experience seamless photo editing with our innovative iOS Swift-developed app, o
 
 
 ## Requirements
-Xcode 12.0 or later
-Swift 5.0 or later
-iOS 12.0 or later
+1. Xcode 12.0 or later
+2. Swift 5.0 or later
+3. iOS 12.0 or later
 
 
 ## Installation
@@ -22,10 +22,10 @@ open PhotoEditor.xworkspace
 
 ## Usage
 
-1.Crop your image,
-2.add a heartfelt message using the text tool,
-3.and draw playful shapes with the pencil to create a personalized masterpiece,
-4.Use the eraser for fine-tuning, and when you're satisfied, share your unique creation effortlessly with friends and family.
+1. Crop your image,
+2. add a heartfelt message using the text tool,
+3. and draw playful shapes with the pencil to create a personalized masterpiece,
+4. Use the eraser for fine-tuning, and when you're satisfied, share your unique creation effortlessly with friends and family.
 
 ## Contributing
 
